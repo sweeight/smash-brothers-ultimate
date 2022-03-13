@@ -3,7 +3,7 @@ This repositry is a documentation of SSBU.
 
 ### Set up environment
 
-``bash
+```bash
 pip install sphinx
 pip install sphinx_rtd_theme
 pip install commonmark recommonmark
