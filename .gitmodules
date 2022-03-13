@@ -1,0 +1,4 @@
+[submodule "docs/build"]
+	path = docs/build
+	url = https://github.com/sweeight/smash-brothers-ultimate.git
+	branch = gh-pages
