@@ -1,6 +1,8 @@
 # smash_brothers_ultimate
 This repositry is a documentation of SSBU.
 
+[Documentation page](https://sweeight.github.io/smash-brothers-ultimate/index.html#)
+
 ## How to Build documentation
 
 ```bash
