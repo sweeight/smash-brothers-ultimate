@@ -69,7 +69,8 @@ instance/
 .scrapy
 
 # Sphinx documentation
-docs/_build/
+docs/build/
+docs/source/modules/
 
 # PyBuilder
 target/
@@ -128,5 +129,3 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# smash_brothers_ultimate
-docs/source/modules/
