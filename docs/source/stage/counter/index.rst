@@ -1,9 +1,9 @@
-ステージ対策
+カウンター
 ===================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
-   ./starter/index
-   ./counter/index
+   ./kalos_pokemon_league
+   ./small_battle_field
