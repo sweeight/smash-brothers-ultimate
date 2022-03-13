@@ -12,6 +12,7 @@ Welcome to smash-brothers-ultimate's documentation!
 
    ./character/index
    ./stage/index
+   ./ref/ref
 
 
 
