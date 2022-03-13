@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# smash_brothers_ultimate
+docs/source/modules/
