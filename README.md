@@ -5,4 +5,14 @@ This repositry is a documentation of SSBU.
 
 ```bash
 bash scripts/create_docs.sh
+# Build docs.===================================================
+# *
+# *
+# *
+# Push docs.===================================================
+# Do you want to push documents? [yes/no]
+# yes
+# <Then, github pages docs will be updated.>
+# no
+# <Nothing is pushed remote repositry.>
 ```
