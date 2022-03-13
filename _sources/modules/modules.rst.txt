@@ -1,0 +1,7 @@
+smash_brothers_ultimate
+=======================
+
+.. toctree::
+   :maxdepth: 4
+
+   smash_brothers_ultimate

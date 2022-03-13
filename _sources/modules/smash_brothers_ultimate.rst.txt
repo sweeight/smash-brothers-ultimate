@@ -1,0 +1,10 @@
+smash\_brothers\_ultimate package
+=================================
+
+Module contents
+---------------
+
+.. automodule:: smash_brothers_ultimate
+   :members:
+   :undoc-members:
+   :show-inheritance:
